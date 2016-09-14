@@ -1,3 +1,4 @@
+#Description
 Practicing copula theory and implementation.
 
 This paper was created as a pedagogical exercise to understand copulas better. 
