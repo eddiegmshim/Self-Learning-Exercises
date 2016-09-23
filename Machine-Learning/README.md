@@ -1,2 +1,2 @@
 #Description:
-LaTeX pracetice /notes on Coursera ML course by Andrew Ng
+LaTeX practice /notes on Coursera ML course by Andrew Ng
