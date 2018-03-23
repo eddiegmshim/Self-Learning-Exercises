@@ -1,4 +1,4 @@
 # Self-Learning-Exercises
 LaTeX, Matlab
 
-ARIMA-GARCH on CBOE SKEW Index, Copula Tutorial, Coursera Machine Learning Notes, Interesting Papers
+ARIMA-GARCH on CBOE SKEW index, copula tutorial on Tesla and Toyota stocks, Coursera machine learning Notes, interesting research papers
